@@ -108,8 +108,15 @@ Web-Analytics-Dashboard/
 │       └── web_analytics_cleaned.csv
 │       └──web_analytics_tableau.csv    
 ├── etl/
-│   ├── data_cleaning.py
-│   └── data_transformation.py
+├── read_data.py
+├── clean_users.py
+├── clean_transactions.py
+├── clean_revenue.py
+├── clean_quantity_sold.py
+├── clean_avg_session_duration.py
+├── final_clean_etl.py
+└── load_to_mysql.py
+│
 │
 ├── requirements.txt
 ├── .gitignore
