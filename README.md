@@ -56,6 +56,18 @@
         🎯 Bounce Rate vs Session Duration
         (Bubble size represents Sessions volume)
 
+**🔄 ETL Workflow**
+
+        📥 Load raw web analytics data
+        
+        🧹 Clean missing & inconsistent values
+        
+        📐 Standardize metrics (rates, durations)
+        
+        📤 Export analytics-ready CSV
+        
+        📊 Visualize in Tableau Public
+
 **📁 Dataset Information**
 
         📌 Source: Web analytics sample data
