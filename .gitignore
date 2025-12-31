@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Tableau temporary / backup files
+*.log
+
+# Raw / large datasets
+*.zip
+*.gz
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Python / environment (if used)
+__pycache__/
+*.pyc
+venv/
+.env
