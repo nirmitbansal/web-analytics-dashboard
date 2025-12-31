@@ -29,6 +29,55 @@
         
         📊 Average Conversion Rate
 
-⏱ Average Session Duration
+        ⏱ Average Session Duration
+        
+        🚪 Bounce Rate
 
-🚪 Bounce Rate
+**📊 Dashboard Visualizations**
+
+        📈 Trend Analysis
+        
+        📅 Monthly Revenue Trend
+        
+        👤 Monthly Users Trend
+        
+        🌐 Traffic Source Performance
+        
+        💰 Revenue by Traffic Source
+        
+        👥 Users by Traffic Source
+        
+        🛒 Transactions by Traffic Source
+        
+        📈 Conversion Rate by Traffic Source
+        
+        🔍 Engagement Analysis
+        
+        🎯 Bounce Rate vs Session Duration
+        (Bubble size represents Sessions volume)
+
+**📁 Dataset Information**
+
+        📌 Source: Web analytics sample data
+        
+        📌 Format: CSV
+        
+        📌 Metrics Included:
+        
+                •Users, Sessions, Revenue
+                
+                •Transactions, Conversion Rate
+                
+                •Bounce Rate, Session Duration
+                
+                •Traffic Source & Time dimensions
+
+**🧠 Key Insights Generated**
+
+        🔥 Identified top-performing traffic sources driving maximum revenue
+        
+        📉 Detected sources with high bounce rate but low engagement
+        
+        📊 Compared conversion efficiency across marketing channels
+        
+        📈 Observed seasonal trends in users and revenue
