@@ -74,10 +74,24 @@
 
 **🧠 Key Insights Generated**
 
-        🔥 Identified top-performing traffic sources driving maximum revenue
+        🔥 Identified top-performing traffic sources driving maximum revenue.
         
-        📉 Detected sources with high bounce rate but low engagement
+        📉 Detected sources with high bounce rate but low engagement.
         
-        📊 Compared conversion efficiency across marketing channels
+        📊 Compared conversion efficiency across marketing channels.
         
-        📈 Observed seasonal trends in users and revenue
+        📈 Observed seasonal trends in users and revenue.
+
+**📂 Project Structure**
+```text
+web-analytics-dashboard/
+│
+├── data/
+│   └── sample/
+│       └── web_analytics_sample.csv
+│
+├── dashboard/
+│   └── Web_Analytics_Dashboard.twb
+│
+├── .gitignore
+└── README.md
