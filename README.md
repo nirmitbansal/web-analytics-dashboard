@@ -96,14 +96,21 @@
 
 **📂 Project Structure**
 ```text
-web-analytics-dashboard/
-│
-├── data/
-│   └── sample/
-│       └── web_analytics_sample.csv
+Web-Analytics-Dashboard/
 │
 ├── dashboard/
 │   └── Web_Analytics_Dashboard.twb
 │
+├── data/
+│   ├── raw/
+│   │   └── web analytic_dataset.csv
+│   └── processed/
+│       └── web_analytics_cleaned.csv
+│       └──web_analytics_tableau.csv    
+├── etl/
+│   ├── data_cleaning.py
+│   └── data_transformation.py
+│
+├── requirements.txt
 ├── .gitignore
 └── README.md
