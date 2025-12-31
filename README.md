@@ -16,3 +16,19 @@
         💡 Understand conversion efficiency & engagement behavior
         
         📉 Identify high bounce rate vs low session duration patterns
+
+**📌 KPIs Tracked**
+
+        👥 Total Users
+        
+        🔄 Total Sessions
+        
+        💰 Total Revenue
+        
+        🛒 Total Transactions
+        
+        📊 Average Conversion Rate
+
+⏱ Average Session Duration
+
+🚪 Bounce Rate
